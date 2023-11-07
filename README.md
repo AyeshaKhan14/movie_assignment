@@ -2,7 +2,7 @@
 
 <p>This is a small movie app build with frontend and backened technologies. </p>
 <p>Tech Stack:-</p>
-<p>Frontend:- HTML,CSS Javascript</p>
+<p>Frontend:- React Js,HTML,CSS Javascript</p>
 <p>Backened:- Node js ,express</p>
 <br/>
 <p>Backened Github Repo :- <a href="https://github.com/AyeshaKhan14/movie_backened">https://github.com/AyeshaKhan14/movie_backened</a></p>
